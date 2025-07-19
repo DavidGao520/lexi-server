@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./build/",
+    "noEmitOnError": false,     
+    "skipLibCheck": true,       
+    "types": []                 
+  },
+  "include": ["src/**/*"],
+  "exclude": []
+}
