@@ -9,4 +9,4 @@ coverage
 /.project
 .settings/
 /client/node_modules
-/client/build
+/client/buildfirebase/lexi-admin-sdk.json
