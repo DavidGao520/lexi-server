@@ -11,7 +11,7 @@
     "setup": "node setup.js"
   },
   "engines": {
-    "node": ">=20.11.1 <21.0.0"
+    "node": ">=20.11.1"
   },
   "keywords": [],
   "author": "",
